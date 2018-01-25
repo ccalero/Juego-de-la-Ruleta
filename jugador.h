@@ -1,3 +1,9 @@
+/*
+	Clase Jugador que hereda de Persona
+	
+	Autor: Carlos Calero de la Fuente
+*/
+
 #ifndef JUGADOR_H
 #define JUGADOR_H
 
