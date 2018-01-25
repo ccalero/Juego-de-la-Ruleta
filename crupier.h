@@ -1,3 +1,9 @@
+/*
+	Clase Crupier
+	
+	Autor: Carlos Calero de la Fuente
+*/
+
 #ifndef CRUPIER_H
 #define CRUPIER_H
 
