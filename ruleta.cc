@@ -1,3 +1,9 @@
+/*
+	Funciones de la clase Ruleta
+	
+	Autor: Carlos Calero de la Fuente
+*/
+
 #include "ruleta.h"
 #include <fstream> // Para el manejo de ficheros
 
