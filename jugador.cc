@@ -1,5 +1,5 @@
 /*
-	Clase Jugador
+	Funciones de la clase Jugador
 	
 	Autor: Carlos Calero de la Fuente
 */
