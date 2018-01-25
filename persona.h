@@ -1,3 +1,9 @@
+/*
+	Clase Persona
+	
+	Autor: Carlos Calero de la Fuente
+*/
+
 #ifndef PERSONA_H
 #define PERSONA_H
 
