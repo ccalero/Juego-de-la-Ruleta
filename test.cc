@@ -1,3 +1,9 @@
+/*
+	App ejecutable para realizar pruebas
+	
+	Autor: Carlos Calero de la Fuente
+*/
+
 #include "ruleta.h"
 #include <fstream> // Para el manejo de ficheros
 #include <iostream>
