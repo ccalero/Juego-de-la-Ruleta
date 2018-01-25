@@ -1,3 +1,9 @@
+/*
+	Clase Ruleta
+	
+	Autor: Carlos Calero de la Fuente
+*/
+
 #ifndef RULETA_H
 #define RULETA_H
 
