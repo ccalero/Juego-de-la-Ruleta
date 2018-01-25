@@ -1,3 +1,9 @@
+/*
+	Clase Jugador
+	
+	Autor: Carlos Calero de la Fuente
+*/
+
 #include <string>
 #include <fstream>
 #include <cstdlib> //Para la función atoi
