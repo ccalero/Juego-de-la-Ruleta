@@ -1,3 +1,9 @@
+/*
+	App ejecutable
+	
+	Autor: Carlos Calero de la Fuente
+*/
+
 #include "ruleta.h"
 
 #include <iostream>
